@@ -1,0 +1,32 @@
+﻿id,value,color
+Skill,,
+Skill.Science and Research,,
+Skill.Science and Research.Biology,28%,#E5751F
+Skill.Science and Research.Environmental Science,23%,#E5751F
+Skill.Science and Research.Field Research,10%,#E5751F
+Skill.Science and Research.Geology,9%,#E5751F
+Skill.Environment,,
+Skill.Environment.Ecology,16%,#861F41
+Skill.Environment.Natural Resource Management,16%,#861F41
+Skill.Environment.Forestry,14%,#861F41
+Skill.Environment.Soil Science,12%,#861F41
+Skill.Environment.Environmental Laws,7%,#861F41
+Skill.Business,,
+Skill.Business.Project Management,31%,#508590
+Skill.Business.Business Development,11%,#508590
+Skill.Information Technology,,
+Skill.Information Technology.Geographic Information Systems (GIS),16%,#642667
+Skill.Hospitality and Food Services.Data Collection,9%,#642667
+Skill.Information Technology.ArcGIS (GIS Software),9%,#642667
+"Skill.Agriculture, Horticulture, and Landscaping",,
+"Skill.Agriculture, Horticulture, and Landscaping.Agriculture",17%,#CE0058
+Skill.Marketing and Public Relations,,
+Skill.Marketing and Public Relations.Marketing,12%,#2CD5C4
+Skill.Analysis,,
+Skill.Analysis.Data Analysis,11%,#75787b
+"Skill.Economics, Policy, and Social Studies",,
+"Skill.Economics, Policy, and Social Studies.Economics",10%,#F7EA48
+"Skill.Law, Regulation, and Compliance",,
+"Skill.Law, Regulation, and Compliance.Land Tenure",8%,#D7D2CB
+Skill.Finance,,
+Skill.Finance.Finance,8%,#CA4F00
