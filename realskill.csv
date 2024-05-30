@@ -1,0 +1,29 @@
+id,value,color
+Skill,,
+Skill.Manufacturing and Production,,
+Skill.Manufacturing and Production.Food Science,91%,#861F41
+Skill.Manufacturing and Production.Food Manufacturing,16%,#861F41
+Skill.Manufacturing and Production.Good Manufacturing Practices,28%,#861F41
+Skill.Manufacturing and Production.New Product Development,25%,#861F41
+"Skill.Law, Regulation, and Compliance",,
+"Skill.Law, Regulation, and Compliance.Quality Management",16%,#E5751F
+"Skill.Law, Regulation, and Compliance.Product Quality (QA/QC)",13%,#E5751F
+"Skill.Law, Regulation, and Compliance.Quality Management Systems",10%,#E5751F
+"Skill.Law, Regulation, and Compliance.Auditing",35%,#E5751F
+"Skill.Law, Regulation, and Compliance.Regulatory Compliance",11%,#E5751F
+Skill.Hospitality and Food Services,,
+Skill.Hospitality and Food Services.Food Safety and Sanitation,49%,#642667
+Skill.Hospitality and Food Services.Hazard Analysis And Critical Control Points (HACCP),32%,#642667
+Skill.Science and Research,,
+Skill.Science and Research.Chemistry,31%,#508590
+Skill.Science and Research.Microbiology,23%,#508590
+Skill.Science and Research.Biology,23%,#508590
+Skill.Business,,
+Skill.Business.Project Management,17%,#CE0058
+Skill.Business.Continuous Improvement Process,12%,#CE0058
+Skill.Business.Commercialization,11%,#CE0058
+Skill.Business.Process Improvement,10%,#CE0058
+Skill.Marketing and Public Relations,,
+Skill.Marketing and Public Relations.Marketing,17%,#2CD5C4
+"Skill.Transportation, Supply Chain, and Logistics",,
+"Skill.Transportation, Supply Chain, and Logistics.Supply Chain",12%,#75787b
