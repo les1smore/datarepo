@@ -1,9 +1,9 @@
 ﻿id,value,color
 Skill,,
 Skill.Media and Communications,,
-Skill.Media and Communications.Communication,52%,#568392
+Skill.Media and Communications.*Communication*,52%,#568392
 Skill.Media and Communications.Writing,33%,#568392
-Skill.Media and Communications.Presentations,20%,#568392
+Skill.Media and Communications.*Presentations*,20%,#568392
 Skill.Media and Communications.Interpersonal Communciations,15%,#568392
 Skill.Media and Communications.Verbal Communication Skills,14%,#568392
 Skill.Media and Communications.Report Writing,10%,#568392
@@ -15,7 +15,7 @@ Skill.Business.Consulting,11%,#781E62
 Skill.Physical and Inherent Abilities,,
 Skill.Physical and Inherent Abilities.Planning,43%,#CFC5CC
 Skill.Physical and Inherent Abilities.Leadership,32%,#CFC5CC
-Skill.Physical and Inherent Abilities.Problem Solving,16%,#CFC5CC
+Skill.Physical and Inherent Abilities.*Problem Solving*,16%,#CFC5CC
 Skill.Physical and Inherent Abilities.Detail Oriented,14%,#CFC5CC
 Skill.Physical and Inherent Abilities.Innovation,12%,#CFC5CC
 Skill.Physical and Inherent Abilities.Self-Motivation,11%,#CFC5CC
