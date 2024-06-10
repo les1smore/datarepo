@@ -1,26 +1,26 @@
 ﻿id,value,color
 Skill,,
 Skill.Business,,
-Skill.Business.Project Management,33%,#E5751F
+Skill.Business.*Project Management*,33%,#E5751F
 Skill.Business.Workflow Management,11%,#E5751F
 Skill.Business.Business Process,11%,#E5751F
 Skill.Business.Process Improvement,10%,#E5751F
 Skill.Business.Change Management,9%,#E5751F
 Skill.Business.Business Requirements,8%,#E5751F
-Skill.Business.Risk Management,8%,#E5751F
-Skill.Business.Business Strategies,6%,#E5751F
+Skill.Business.*Risk Management*,8%,#E5751F
+Skill.Business.*Business Strategies*,6%,#E5751F
 Skill.Information Technology,,
 Skill.Information Technology.Agile Methodology,16%,#861F41
-Skill.Information Technology.SQL (Programming Language),11%,#861F41
-Skill.Information Technology.Information Systems,10%,#861F41
-Skill.Information Technology.Automation,10%,#861F41
-Skill.Information Technology.Software Development,8%,#861F41
-Skill.Information Technology.Cyber Security,8%,#861F41
+Skill.Information Technology.*SQL (Programming Language)*,11%,#861F41
+Skill.Information Technology.*Information Systems*,10%,#861F41
+Skill.Information Technology.*Automation*,10%,#861F41
+Skill.Information Technology.*Software Development*,8%,#861F41
+Skill.Information Technology.*Cyber Security*,8%,#861F41
 Skill.Information Technology.Python (Programming Language),8%,#861F41
 Skill.Information Technology.Scrum (Software Development),7%,#861F41
 Skill.Information Technology.Amazon Web Services,6%,#861F41
-Skill.Information Technology.Operating Systems,6%,#861F41
+Skill.Information Technology.*Operating Systems*,6%,#861F41
 Skill.Analysis,,
-Skill.Analysis.Data Analysis,14%,#508590
+Skill.Analysis.*Data Analysis*,14%,#508590
 "Skill.Law, Regulation, and Compliance",,
 "Skill.Law, Regulation, and Compliance.Auditing",12%,#642667
